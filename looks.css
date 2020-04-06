@@ -10,7 +10,7 @@
 
 .parallax {
     background-image: url("Images/Img1.jpg");
-    height: 710px;
+    height: 800px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -191,6 +191,34 @@ img{
   margin-top:100px;
 }
 .faceheight{
-  height: 400px;
-  width:200px;
+  height: 100%;
+  width:100%;
+  padding-left: 100px;
+  border-radius:50%;
+  float:left;
 }
+.fullwidth{
+  width: 100%;
+  background-color: #fafafa;
+}
+
+.floater{
+  float: right;
+}
+.textalign{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+
+.contain {
+  display:inline-block;
+  display: flex;
+  justify-content: space-between;
+}
+ #imager{
+   height:100%;
+   width:100%;
+   padding: 30px;
+   margin: auto;
+  }
