@@ -26,6 +26,7 @@ h1{
     padding-top: 180px;
     text-align: left;
     padding-left: 100px;
+
 }
 li{
     display:inline;
@@ -151,7 +152,6 @@ img{
 .yeeter{
     margin-left: auto;
     margin-right: auto;
-    width:50%;
     display:block;
 }
 .parallax4{
@@ -222,3 +222,9 @@ img{
    padding: 30px;
    margin: auto;
   }
+.font-size{
+  font-size: 18px;
+}
+.contact{
+  margin-top: 50px;
+}
